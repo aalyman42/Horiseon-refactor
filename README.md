@@ -2,7 +2,7 @@
 
 ## Description
 
-> Refactored the HTML to include Semantic elements.
+> Refactored the HTML on the Horiseon site to include Semantic elements.
 
 > Cleaned & Reordered CSS.
 
@@ -10,4 +10,8 @@
 
 ## Screenshot
 
-[Horiseon Site](./assets/images/Screenshot.JPG)
+![Horiseon Site](./assets/images/Screenshot.JPG)
+
+## link
+
+https://aalyman42.github.io/Horiseon-refactor/
